@@ -1,0 +1,7 @@
+data/kaggle/*
+!data/kaggle/README.md
+data/synthetic/*
+!data/synthetic/README.md
+results/*
+!results/README.md
+*.mat
